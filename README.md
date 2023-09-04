@@ -13,6 +13,10 @@ Features incluídas:
 
 ![previa](https://i.imgur.com/zwgJC9O.gif)
 
+### Deploy
+
+https://marcelosantana7.github.io/js-developer-pokedex/
+
 ## Instalação e Uso
 
 ### Instalação
@@ -30,6 +34,3 @@ Features incluídas:
 
 1. Abra o arquivo `index.html` no seu navegador.
 
-### Deploy
-
-https://marcelosantana7.github.io/pokedex/
