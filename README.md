@@ -11,7 +11,7 @@ Features incluídas:
 - Alteração da url das imagens para o sprite que tem as imagens em 3D.
 - Icone da pokebola no background de alguns elementos.
 
-![previa](https://i.imgur.com/NP4IXnz.gif)
+![previa](https://i.imgur.com/zwgJC9O.gif)
 
 ## Instalação e Uso
 
